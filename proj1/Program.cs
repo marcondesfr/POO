@@ -29,7 +29,7 @@ namespace proj1
             qte = int.Parse(Console.ReadLine());
             p.RemoverProduto(qte);
             System.Console.WriteLine();
-            System.Console.WriteLine($"Dados atualizados: {p}");
+            System.Console.WriteLine($"Dados atualizados: {p}"); 
         }
     }
 }
