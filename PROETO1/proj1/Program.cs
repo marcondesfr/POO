@@ -7,14 +7,14 @@ namespace proj1
     {
         static void Main(string[] args)
         {
-            Produto p = new Produto();
             System.Console.WriteLine("Entre com os dados do protudo:");
             System.Console.Write("Nome: ");
-            p.Name = Console.ReadLine();
+            string name = Console.ReadLine();
             System.Console.Write("Preco: ");
-            p.Preco = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            double preco = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             System.Console.WriteLine("Quantidade: ");
-            p.Quantidade = int.Parse(Console.ReadLine());
+            int quantidade = int.Parse(Console.ReadLine());
+            Produto p = new Produto(name, preco, quantidade);
 
             System.Console.WriteLine();
             System.Console.WriteLine($"Dados do produto {p}");

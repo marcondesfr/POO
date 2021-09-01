@@ -1,0 +1,11 @@
+/home/mascou/POO7/bin/Debug/netcoreapp3.1/POO7
+/home/mascou/POO7/bin/Debug/netcoreapp3.1/POO7.deps.json
+/home/mascou/POO7/bin/Debug/netcoreapp3.1/POO7.runtimeconfig.json
+/home/mascou/POO7/bin/Debug/netcoreapp3.1/POO7.runtimeconfig.dev.json
+/home/mascou/POO7/bin/Debug/netcoreapp3.1/POO7.dll
+/home/mascou/POO7/bin/Debug/netcoreapp3.1/POO7.pdb
+/home/mascou/POO7/obj/Debug/netcoreapp3.1/POO7.csprojAssemblyReference.cache
+/home/mascou/POO7/obj/Debug/netcoreapp3.1/POO7.AssemblyInfoInputs.cache
+/home/mascou/POO7/obj/Debug/netcoreapp3.1/POO7.AssemblyInfo.cs
+/home/mascou/POO7/obj/Debug/netcoreapp3.1/POO7.dll
+/home/mascou/POO7/obj/Debug/netcoreapp3.1/POO7.pdb

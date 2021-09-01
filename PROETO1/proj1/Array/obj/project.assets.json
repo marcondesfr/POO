@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/mascou/POO/proj1/proj1.csproj",
-      "projectName": "proj1",
-      "projectPath": "/home/mascou/POO/proj1/proj1.csproj",
+      "projectUniqueName": "/home/mascou/POO7/POO7.csproj",
+      "projectName": "POO7",
+      "projectPath": "/home/mascou/POO7/POO7.csproj",
       "packagesPath": "/home/mascou/.nuget/packages/",
-      "outputPath": "/home/mascou/POO/proj1/obj/",
+      "outputPath": "/home/mascou/POO7/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/mascou/.nuget/NuGet/NuGet.Config"
@@ -56,7 +56,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/3.1.117/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/3.1.118/RuntimeIdentifierGraph.json"
       }
     }
   }
